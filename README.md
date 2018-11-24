@@ -1,4 +1,4 @@
-# Jogo de Memoria Online
+# Jogo da Memória Online
 Criação de um jogo da memória usando a API de Sockets - Linguagem Python
 
 A implementação de referência foi escrita em Python 2. Mais especificamente, o código foi testado na versão 2.7. Apenas módulos da biblioteca padrão do Python 2 foram utilizados.
